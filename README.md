@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on Software Development. A full stack developer with next.js and django tech stack.
 
 <!--
 **Dires318/Dires318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
