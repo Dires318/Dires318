@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-   <a href="https://www.upwork.com/freelancers/~0161bcf21dc6173783">
+   <a href="https://www.upwork.com/freelancers/~0161bcf21dc6173783" target="_blank">
        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   
    </a>
   <a href="https://github.com/dires318">
