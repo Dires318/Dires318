@@ -1,7 +1,11 @@
 ### Hi there 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dires318&label=Profile%20views&color=0e75b6&style=flat" alt="Dires Aman" /> </p>
+
 🔭 I’m currently working on Software Development. A full stack developer with next.js and django tech stack.
 
 <!--
+📫 You can reach me 
 **Dires318/Dires318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
