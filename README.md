@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+   <a href="https://www.upwork.com/freelancers/~01341db4af73961f34">
+       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   
+   </a>
+  <a href="https://github.com/dires318">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/dires318?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"  target="_blank"/>
+  </a>
+</p>
